@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
 
 body {
-  background: url(https://media.giphy.com/media/14zSZXA5q24PC/source.gif);
+  background: url(https://acegif.com/wp-content/uploads/outerspace-m.gif);
   color: rgb(250, 253, 247);
   font-family: 'Press Start 2P', cursive;
 
@@ -18,7 +18,7 @@ body {
 /** l'image fait toujours la même hauteur **/
 img{
   margin: 40px;
-  border: 1px solid yellow;
+  border: 1px solid #1d1ad4;
   padding: 10px;
   height: 40vh;
   width: auto;
@@ -42,7 +42,7 @@ h2{
 .btn {
 	box-shadow: 6px 6px 0px 0px #0b1a6d;
 	background:rgb(29, 72, 167);
-	border:1px solid #EEDD0b;
+	border:1px solid #1d1ad4;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
