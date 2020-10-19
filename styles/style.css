@@ -40,8 +40,8 @@ h2{
 
 /** boutons **/
 .btn {
-	box-shadow: 6px 6px 0px 0px #6d4e0b;
-	background:#333;
+	box-shadow: 6px 6px 0px 0px #0b1a6d;
+	background:rgb(29, 72, 167);
 	border:1px solid #EEDD0b;
 	display:inline-block;
 	cursor:pointer;
@@ -50,7 +50,7 @@ h2{
 	font-size:17px;
 	padding:7px 25px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #810e05;
+	text-shadow:0px 1px 0px #053081;
 }
 .btn:hover {
 	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
